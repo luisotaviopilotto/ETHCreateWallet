@@ -1,0 +1,5 @@
+gradio
+bip-utils
+eth-account
+eth-keys
+mnemonic
