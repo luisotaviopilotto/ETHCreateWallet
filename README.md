@@ -44,3 +44,15 @@ pip install gradio mnemonic eth_account eth_keys
 ## Nota
 
 - Este aplicativo remove os idiomas "português", "russo" e "turco" da lista de idiomas disponíveis, pois esses idiomas atualmente não estão funcionando corretamente com a biblioteca `mnemonic`.
+
+## Google Colab
+
+Você também pode experimentar este aplicativo no Google Colab. Clique no link abaixo para abrir o notebook:
+
+[![Open In Colab](https://bit.ly/google-colab-shields-io)](https://colab.research.google.com/drive/1PYu6ExtXDrAotb4-CISlWQb_OR6aI2tY?usp=sharing)
+
+## Hugging Face
+
+Você pode executar este aplicativo no Hugging Face. Clique no link abaixo para abrir o notebook:
+
+[![Open In Hugging Face](https://bit.ly/hugging-face-shields-io)](https://huggingface.co/spaces/luisotaviopilotto/ETHWalletCreate)
